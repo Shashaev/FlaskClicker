@@ -10,7 +10,7 @@
 
 Запуск проекта через Docker:
 ```bash
-sudo docker run -p 5000:5000 shashaevkirill/flaskclicke
+sudo docker run -p 5000:5000 shashaevkirill/flaskclicker
 ```
 
 Далее идёт инструкция по мануальному запуску.
