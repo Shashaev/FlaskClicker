@@ -8,6 +8,13 @@
 
 ## Запуск проекта
 
+Запуск проекта через Docker:
+```bash
+sudo docker run -p 5000:5000 shashaevkirill/flaskclicke
+```
+
+Далее идёт инструкция по мануальному запуску.
+
 ### Что нужно для запуска?
 
 - [Git](https://git-scm.com/downloads)
